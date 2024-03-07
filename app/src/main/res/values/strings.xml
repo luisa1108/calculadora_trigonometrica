@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Calculadora_trigonometrica</string>
+    <string name="raiz">Raíz</string>
+    <string name="perimetro">Perímetro</string>
+    <string name="funcion_coseno">Función Coseno</string>
+    <string name="funcion_seno">Función Seno</string>
+    <string name="calcular_coseno">Calcular coseno\n</string>
+    <string name="angulo_de_coseno">Ángulo coseno</string>
+    <string name="grados_coseno">Grado coseno\n</string>
+    <string name="radianes_coseno">Radian coseno</string>
+    <string name="calcula_coseno">Calcular coseno</string>
+    <string name="calculadora_perimetro">Calculadora perimetro</string>
+    <string name="long1_perimetro">Longitud perimetro 1</string>
+    <string name="long2_perimetro">Longitud perimetro 2</string>
+    <string name="long3_perimetro">Longitud perimetro 3</string>
+    <string name="calcular_perimetro">Calcular perimetro</string>
+    <string name="calculadora_raiz">Calculadora raíz\n</string>
+    <string name="num_raiz">Número raíz</string>
+    <string name="bcalcular_raiz">Calcular raíz</string>
+</resources>

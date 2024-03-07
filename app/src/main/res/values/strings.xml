@@ -17,4 +17,9 @@
     <string name="calculadora_raiz">Calculadora raíz\n</string>
     <string name="num_raiz">Número raíz</string>
     <string name="bcalcular_raiz">Calcular raíz</string>
+    <string name="calculadora_seno">Calculadora seno</string>
+    <string name="grados_seno">Grados seno</string>
+    <string name="radianes_seno">Radianes seno</string>
+    <string name="angulo_seno">Ángulo seno</string>
+    <string name="calcular_seno">Calcular seno</string>
 </resources>
